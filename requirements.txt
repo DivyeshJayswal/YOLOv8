@@ -1,0 +1,3 @@
+pip install ultralytics==8.0.198
+pip install numpy
+pip install opencv-python
